@@ -1,0 +1,17 @@
+﻿{
+    "UploadDelay":  2,
+    "passEncrypted":  "01000000d08c9ddf0115d1118c7a00c04fc297eb01000000580833e3e77c6547870adedf4a18996d000000000200000000001066000000010000200000002d93d1537a54033f23e370cf57ac812dd8f3fbfb6b02d9822843143174104b56000000000e8000000002000020000000d8fd01586c5ee0073a95e7a8ddd9c9560a4a36a438a9a9a42a14b9b3f44094f220000000a3b9a895595cca2fb844930e8c84cba7477bcf11d81e37447994740dbc4b100040000000d34b075afcc310996c5b7ec428231ad0731d6fd1df64bd64b3435bd24cd1355c09e1812b9222d056abb6d821aec6aa034fbe9f8e76df0716b0f4b897032469b0",
+    "user":  "admin",
+    "SourceDir":  "G:\\delete\\input\\test",
+    "categories_id":  1,
+    "OpenAI":  {
+                   "apiKey":  ""
+               },
+    "targets":  [
+                    {
+                        "baseUrl":  "https://boudoirlive.xyz"
+                    }
+                ],
+    "DarkTheme":  false,
+    "DeleteOnSuccess":  false
+}
