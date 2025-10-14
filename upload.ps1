@@ -1,4 +1,4 @@
-﻿# upload.ps1 v1.6
+# upload.ps1 v1.6
 # - Consolidated fixes and robust normalization/debug
 # - HttpClient multipart upload (pwsh & Windows PowerShell)
 # - Single-line DEBUG_RESULT entries to avoid duplicate FAILED blocks
