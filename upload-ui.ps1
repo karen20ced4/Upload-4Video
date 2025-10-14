@@ -1,4 +1,4 @@
-﻿# upload-ui-improved.ps1 (v3.2) - Modern UI with Progress Bar Real-Time
+# upload-ui-improved.ps1 (v3.2) - Modern UI with Progress Bar Real-Time
 # - GroupBox sections with color coding
 # - Light/Dark theme toggle
 # - Professional layout similar to reference image
